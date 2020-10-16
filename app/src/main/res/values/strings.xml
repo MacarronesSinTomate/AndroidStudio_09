@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BancoApp</string>
+    <string name="welcome">¡Bienvenido! :)</string>
+    <string name="name_placeholder">Nombre</string>
+    <string name="password_placeholder">Contraseña</string>
+    <string name="login_Title">Inicia sesion</string>
+</resources>
